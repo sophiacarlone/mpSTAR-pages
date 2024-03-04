@@ -69,7 +69,7 @@ body  {
     text-align: center;
     font-size: large;
     top:0;
-    opacity:100%;
+    /* opacity:100%; */
     z-index: 1;
 }
 
@@ -87,15 +87,15 @@ body  {
     right: 0; */
     /* height: 100%;
     width: 100%; */
-    opacity: 0;
+    /* opacity: 0; */
     transition: .5s ease;
     background: #7535b6;
     /* background-color: #008CBA; */
 }
 
-.textbox:hover .overlay {
+/* .textbox:hover .overlay {
 opacity: 1;
-}
+} */
 
 @-webkit-keyframes surprise{
     0% {opacity: 0; height: 0px;}
