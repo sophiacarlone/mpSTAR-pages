@@ -8,14 +8,15 @@ body  {
 }
 
 .title{
-    background: #7535b6;
+    background: #28074a;
+    color: aliceblue;
     margin: auto;
-    width: 80%;
+    width: 90%;
     opacity: 100%;
     height: auto;
-    border-radius: 25px;
-    border: 5px solid rgb(231, 191, 12);
-    padding: 10px;
+    /* border-radius: 25px; */
+    /* border: 5px solid rgb(231, 191, 12); */
+    padding: 15px;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
